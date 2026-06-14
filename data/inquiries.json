@@ -1,0 +1,29 @@
+[
+  {
+    "id": "27d98ede-5d00-46eb-9482-b1d094058dca",
+    "name": "Kumaran ",
+    "email": "KVAITHI@FORD.COM",
+    "phone": "",
+    "service": "",
+    "message": "AFAFADFDAFADFAFA",
+    "createdAt": "2026-06-14T09:39:54.817Z"
+  },
+  {
+    "id": "94aa592d-1268-460a-ad1a-0fc8798987a6",
+    "name": "Kumaran ",
+    "email": "kvaithil@ford.com",
+    "phone": "",
+    "service": "system-upgrades",
+    "message": "testing the email func",
+    "createdAt": "2026-06-14T11:53:25.626Z"
+  },
+  {
+    "id": "93a4f3d6-433d-4a41-92f6-7aa764f84164",
+    "name": "Kumaran ",
+    "email": "kumaransda16@gmail.com",
+    "phone": "",
+    "service": "system-upgrades",
+    "message": "Test the email functionality ",
+    "createdAt": "2026-06-14T11:58:34.763Z"
+  }
+]
