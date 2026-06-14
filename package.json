@@ -5,10 +5,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "prettier": "prettier --write ."
+    "start": "next start -p 8080",
+    "prettier": "prettier --write .",
+    "start:azure": "node .next/standalone/server.js"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "lucide-react": "^0.344.0",
     "next": "16.2.6",
     "nodemailer": "^8.0.11",
